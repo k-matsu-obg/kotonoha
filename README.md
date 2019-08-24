@@ -7,6 +7,9 @@ juliusを使った音声認識アプリ
 
 ## Features
 
+1. ローカルのマイクからWavファイルを生成する。
+
+
 ## Tools and Assets
 
 
